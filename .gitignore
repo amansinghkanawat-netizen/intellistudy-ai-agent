@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+intellistudy.db
+intellistudy.db-shm
+intellistudy.db-wal
+storage/
+uploads/
+node_modules/
+dist/
+build/
