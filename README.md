@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 IntelliStudy – Smart Study Generator Agent
 
 > **Your Personal AI Learning Companion**
@@ -355,3 +356,6 @@ MIT License — free to use, modify, and distribute.
 ---
 
 *Built with ❤️ using IBM Granite AI · IntelliStudy – Study Smarter. Learn Faster. Achieve More.*
+=======
+# intellistudy-ai-agent
+>>>>>>> eb993a98cab69397d861413b06d93a54a4906da3
